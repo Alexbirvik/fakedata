@@ -1,0 +1,16 @@
+{
+    "rows": [
+    { "Min": "300", "Max": "3000", "Percent": "3%", "Frequancy": "единовременно" },
+    { "Min": "400", "Max": "4000", "Percent": "4%", "Frequancy": "ежемесячно" },
+    { "Min": "100", "Max": "1000", "Percent": "1%", "Frequancy": "каждые две недели" },
+    { "Min": "200", "Max": "2000", "Percent": "2%", "Frequancy": "каждые две недели" },
+    { "Min": "500", "Max": "5000", "Percent": "3%", "Frequancy": "каждые две недели" },
+    { "Min": "600", "Max": "6000", "Percent": "4%", "Frequancy": "единовременно" },
+    { "Min": "700", "Max": "8000", "Percent": "1%", "Frequancy": "ежемесячно" },
+    { "Min": "800", "Max": "8000", "Percent": "2%", "Frequancy": "единовременно" },
+    { "Min": "900", "Max": "9000", "Percent": "3%", "Frequancy": "ежемесячно" },
+    { "Min": "950", "Max": "10000", "Percent": "4%", "Frequancy": "ежемесячно" },
+    { "Min": "970", "Max": "10000", "Percent": "1%", "Frequancy": "каждые две недели" },
+    { "Min": "10000", "Max": "20000", "Percent": "10%", "Frequancy": "единовременно" }
+    ]
+}
